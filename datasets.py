@@ -1,3 +1,3 @@
-install pandas_datareader
+import pandas_datareader
 
 
